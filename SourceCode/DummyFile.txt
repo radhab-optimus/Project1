@@ -1,3 +1,6 @@
 hello this is SCM induction 
+<<<<<<< HEAD
 entered data for the 2nd time
 entered data for the 3rd time
+=======
+>>>>>>> parent of 24feedf... 2nd
